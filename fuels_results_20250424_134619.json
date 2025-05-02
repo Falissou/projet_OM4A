@@ -1,0 +1,29 @@
+{
+  "success": [
+    {
+      "id": "680a3fd13ff26f2cb7dc363a",
+      "data": {
+        "name": "power"
+      }
+    },
+    {
+      "id": "680a3fd13ff26f2cb7dc363b",
+      "data": {
+        "name": "gas"
+      }
+    },
+    {
+      "id": "680a3fd13ff26f2cb7dc363c",
+      "data": {
+        "name": "coal"
+      }
+    },
+    {
+      "id": "680a3fd13ff26f2cb7dc363d",
+      "data": {
+        "name": "oil"
+      }
+    }
+  ],
+  "errors": []
+}

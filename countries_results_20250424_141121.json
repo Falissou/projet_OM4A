@@ -1,0 +1,117 @@
+{
+  "success": [
+    {
+      "id": "680a45ab3ff26f2cb7dc3646",
+      "data": {
+        "code": "BJ",
+        "name": "Benin"
+      }
+    },
+    {
+      "id": "680a45ab3ff26f2cb7dc3647",
+      "data": {
+        "code": "BF",
+        "name": "Burkina_faso"
+      }
+    },
+    {
+      "id": "680a45ac3ff26f2cb7dc3648",
+      "data": {
+        "code": "CV",
+        "name": "Cape_verde"
+      }
+    },
+    {
+      "id": "680a45ac3ff26f2cb7dc3649",
+      "data": {
+        "code": "CI",
+        "name": "Cote_d_ivoire"
+      }
+    },
+    {
+      "id": "680a45ac3ff26f2cb7dc364a",
+      "data": {
+        "code": "GM",
+        "name": "Gambia"
+      }
+    },
+    {
+      "id": "680a45ac3ff26f2cb7dc364b",
+      "data": {
+        "code": "GH",
+        "name": "Ghana"
+      }
+    },
+    {
+      "id": "680a45ad3ff26f2cb7dc364c",
+      "data": {
+        "code": "GN",
+        "name": "Guinea"
+      }
+    },
+    {
+      "id": "680a45ad3ff26f2cb7dc364d",
+      "data": {
+        "code": "GW",
+        "name": "Guinea_bissau"
+      }
+    },
+    {
+      "id": "680a45ad3ff26f2cb7dc364e",
+      "data": {
+        "code": "LR",
+        "name": "Liberia"
+      }
+    },
+    {
+      "id": "680a45ad3ff26f2cb7dc364f",
+      "data": {
+        "code": "ML",
+        "name": "Mali"
+      }
+    },
+    {
+      "id": "680a45ae3ff26f2cb7dc3650",
+      "data": {
+        "code": "MR",
+        "name": "Mauritania"
+      }
+    },
+    {
+      "id": "680a45ae3ff26f2cb7dc3651",
+      "data": {
+        "code": "NE",
+        "name": "Niger"
+      }
+    },
+    {
+      "id": "680a45ae3ff26f2cb7dc3652",
+      "data": {
+        "code": "NG",
+        "name": "Nigeria"
+      }
+    },
+    {
+      "id": "680a45af3ff26f2cb7dc3653",
+      "data": {
+        "code": "SN",
+        "name": "Senegal"
+      }
+    },
+    {
+      "id": "680a45af3ff26f2cb7dc3654",
+      "data": {
+        "code": "SL",
+        "name": "Sierra_leone"
+      }
+    },
+    {
+      "id": "680a45af3ff26f2cb7dc3655",
+      "data": {
+        "code": "TG",
+        "name": "Togo"
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,61 @@
+{
+  "success": [
+    {
+      "id": "680a45823ff26f2cb7dc363e",
+      "data": {
+        "name": "p_solar",
+        "category": "RENEWABLE"
+      }
+    },
+    {
+      "id": "680a45833ff26f2cb7dc363f",
+      "data": {
+        "name": "p_nuclear",
+        "category": "THERMAL"
+      }
+    },
+    {
+      "id": "680a45833ff26f2cb7dc3640",
+      "data": {
+        "name": "p_wind",
+        "category": "RENEWABLE"
+      }
+    },
+    {
+      "id": "680a45833ff26f2cb7dc3641",
+      "data": {
+        "name": "p_hydro",
+        "category": "RENEWABLE"
+      }
+    },
+    {
+      "id": "680a45833ff26f2cb7dc3642",
+      "data": {
+        "name": "p_oil",
+        "category": "THERMAL"
+      }
+    },
+    {
+      "id": "680a45843ff26f2cb7dc3643",
+      "data": {
+        "name": "p_coal",
+        "category": "THERMAL"
+      }
+    },
+    {
+      "id": "680a45843ff26f2cb7dc3644",
+      "data": {
+        "name": "p_gas",
+        "category": "THERMAL"
+      }
+    },
+    {
+      "id": "680a45843ff26f2cb7dc3645",
+      "data": {
+        "name": "p_biomass",
+        "category": "RENEWABLE"
+      }
+    }
+  ],
+  "errors": []
+}
