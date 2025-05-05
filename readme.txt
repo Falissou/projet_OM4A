@@ -27,7 +27,7 @@ Utilisation :
 
 Fichiers et dossiers :
  - data/ : Contient toutes les données du projet.
-    - data_visu/ : Stocke les datasets nettoyés et prêts à être la visualisation via Power BI.
+    - data_visu/ : Stocke les datasets nettoyés et prêts pour la visualisation via Power BI.
         - etc.
     - processed/ : Stocke les datasets nettoyés et prêts à être chargés dans une base de données.
         - consom_elect_processed.xlsx, 
